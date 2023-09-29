@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming And IOT Devices
 - 🌱 I’m currently learning about Machine Learning and IOT Devices
 - 💞️ I’m looking to collaborate on anything :)
-- 📫 
+- 📫 Contact me at - akshaysinghc230@gmail.com
 
 <!---
 akshaytheGodxo/akshaytheGodxo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
