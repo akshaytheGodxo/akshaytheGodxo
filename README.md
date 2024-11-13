@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Akshay and I'm a fullstack engineer(a.k.a nerd), from Raebareli</h2>
 
 ###
 
@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/akshaytheGodxo/akshaytheGodxo/blob/main/snake.yml" alt="Snake animation" />
+<img src="https://github.com/akshaytheGodxo/akshaytheGodxo/snake.yml" alt="Snake animation" />
 
 ###
 
