@@ -26,7 +26,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Akshay from Raebareli<br><br>- 🔭 I’m working as Fullstack Engineer<br>- 📚 I'm currently learning T3 stack<br>- ⚡ In my free time I like to read novels</p>
 
 ###
 
