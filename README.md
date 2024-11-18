@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Akshay and I'm a fullstack engineer(a.k.a nerd), from Raebareli</h2>
+<h2 align="left">Hi 👋! My name is Akshay and I'm a fullstack engineer</h2>
 
 ###
 
