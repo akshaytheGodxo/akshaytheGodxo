@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 
 ## 🔗 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/akshay-singh-chauhan-wow/)
-[![Twitter](https://x.com/akshays04640139)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/akshay-singh-chauhan-wow/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/akshays04640139)
 
 Thanks for visiting my profile! Have a great day! 😊
