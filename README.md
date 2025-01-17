@@ -19,7 +19,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![T3 Stack](https://img.shields.io/badge/-T3-Stack-333333?style=flat&logo=node.js)
+![T3 Stack](https://img.shields.io/badge/-T3-333333?style=flat&logo=node.js)
 ![Next-Authentication](https://img.shields.io/badge/-Auth.js-333333?style=flat&logo=node.js)
 ![SFML(2.6.1)](https://img.shields.io/badge/-SFML-333333?style=flat&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
