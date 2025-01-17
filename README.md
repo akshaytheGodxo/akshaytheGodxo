@@ -1,61 +1,38 @@
-<h2 align="left">Hi 👋! My name is Akshay and I'm a fullstack engineer</h2>
+# Hi there, I'm Akshay! 👋
 
-###
+Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and explore new technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshaytheGodxo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akshaytheGodxo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🚀 About Me
 
-###
+- 🌱 I’m currently learning **T3 Stack**
+- 👯 I’m looking to collaborate on **Web Technologies**
+- 🤔 I’m looking for help with **SFML/C++**
+- 💬 Ask me about **Next.js or T3**
+- 📫 How to reach me: **akshaysinghc230@gmail.com**
+- ⚡ Fun fact: **I love watching UFC, my favourite figher is G.S.P(Rush)**
 
-<img align="right" height="150" src="https://media1.tenor.com/m/5WgsRuEevy8AAAAC/dark-souls-git-gud.gif"  />
+## 🛠️ Technologies & Tools
 
-###
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![T3 Stack](https://create.t3.gg/)
+![Next-Authentication](https://next-auth.js.org/)
+![SFML(2.6.1)](https://www.sfml-dev.org/documentation/2.6.1/)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-</div>
+## 📈 GitHub Stats
 
-###
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshaytheGodxo&show_icons=true&theme=radical)
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🔗 Connect with Me
 
-###
+[![LinkedIn](https://www.linkedin.com/in/akshay-singh-chauhan-wow/)
+[![Twitter](https://x.com/akshays04640139)
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/akshaytheGodxo/akshaytheGodxo/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31g5rdiabtm4h3obcxtvy7f3fx2u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31g5rdiabtm4h3obcxtvy7f3fx2u" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+Thanks for visiting my profile! Have a great day! 😊
