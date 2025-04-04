@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer, always eager to learn 
 - 🤔 I’m looking for help with **SFML/C++**
 - 💬 Ask me about **Next.js or T3**
 - 📫 How to reach me: **akshaysinghc230@gmail.com**
-- ⚡ Fun fact: **I love watching UFC, my favourite figher is G.S.P(Rush)**
+- ⚡ Fun fact: **I love watching UFC, my favourite figher is G.S.P.(Rush)**
 ![](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGJxMWR0cXFxbXkyaDU4ajE5eW4zejFieDMxMWs5YzJnamprcG83YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV7smwpMIBR9rBS/giphy.gif)
 ## 🛠️ Technologies & Tools
 
