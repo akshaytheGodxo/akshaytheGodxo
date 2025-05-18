@@ -1,4 +1,4 @@
-# Hi there, I'm Akshay! 👋
+# Hi there, I'm Akshay! 
 
 Welcome to my GitHub profile! I'm a passionate developer, always eager to learn and explore new technologies.
 
