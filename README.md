@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Codeo<br>👯 I’m looking to collaborate on T3 + NextJS Projects<br>🌱 I’m currently learning Redis<br>⚡ Fun fact , I love Sydney Sweeny :3
+🔭 I’m currently working on Codeo<br>👯 I’m looking to collaborate on T3 + NextJS Projects<br>🌱 I’m currently learning Redis<br>⚡ Fun fact , big fan ofSydney Sweeny :3
 
 
 ## 🌐 Socials:
